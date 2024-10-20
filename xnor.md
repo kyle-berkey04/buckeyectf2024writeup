@@ -4,7 +4,7 @@ This challenge gave two files `xnor.py` and `xnor_output.txt`
 >XNOR! It's like XOR, but it's actually the complete opposite.
 
 First I checked the `xnor.py` file:
-```
+```python
 import os
 
 

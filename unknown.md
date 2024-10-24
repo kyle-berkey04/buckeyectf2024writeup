@@ -1,7 +1,7 @@
 # unkown
 >Some may call this junk. Me, I call them treasures.
 
-This challenge gave me a file `unknown.zip'
+This challenge gave me a file `unknown.zip`
 
 I decided to analyze what type of file this is:
 ```

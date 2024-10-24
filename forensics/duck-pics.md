@@ -5,7 +5,7 @@ This challenge gave me a 'capture.pcapng' file
 
 I opened the pcapng file in wireshark to see what I could notice
 
-![Wireshark Screenshot](/duck-pic.png)
+![Wireshark Screenshot](/assets/duck-pic.png)
 
 The first thing I noticed was that the protocal for every packet was USB.  
 Based on the challenge description and this, I guessed that the pcap was a keyboard capture  

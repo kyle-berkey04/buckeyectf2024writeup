@@ -17,7 +17,7 @@ Now that I know I can access the `./git` folder, I looked up how this folder is 
 I saw that in one of the past versions, the flag was accidentally uploaded. I looked up how to get past versions of the source code with the .git folder, and found [GitTools'](https://github.com/internetwache/GitTools) dumper and extractor tool.
 
 ```
-$ bash ~/GitTool/Dumper/gitdumper.sh http://localhost:5000/.git/ ./dump
+$ bash ~/GitTool/Dumper/gitdumper.sh http://gitgoo.challs.pwnoh.io/.git/ ./dump
 ###########
 # GitDumper is part of https://github.com/internetwache/GitTools
 #

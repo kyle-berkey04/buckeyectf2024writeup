@@ -8,6 +8,6 @@ This web page was completely blank. I looked around in inspect element, to try a
 
 Based on the challenge description, I guessed that this was a git repository hosted to a web page. I knew that all git repositories have a /.git file, so I tried `gitgoo.challs.pwnoh.io/.git`
 
-[add img here]
+![Gitgoo Screenshot](/assets/gitgoo.png)
 
 Now that I know I can access the ./git folder, I looked up how this folder is organized. I found that 
